@@ -19,3 +19,5 @@
 - Context parameters provided in expression and not present in JSON input will be treated as null
 - Object hierarchy is supported, using "." to annotate hierarchy levels
 - All numeric values are parsed to double
+### API specification
+- API specifiction is made using **Swagger** and it is available at the **/swagger-ui/index.html** path of running application
